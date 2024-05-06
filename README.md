@@ -30,7 +30,11 @@ Welcome to my GitHub profile! I'm a Software Engineer focused on Frontend develo
 [![Sass logo](./icons/Sass.svg)](https://sass-lang.com/)
 [![Css logo](./icons/Css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Html logo](./icons/Html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 &nbsp;
+
 [<img src="https://api.daily.dev/devcards/v2/UipxFkc3aG0eds2PFvtEa.png?type=default&r=vhm" alt="Git logo" width="300px">](https://app.daily.dev/rbrari)
+
 &nbsp;
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rbrari&label=Profile%20views&color=0e75b6&style=for-the-badge)  
