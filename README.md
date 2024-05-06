@@ -34,4 +34,5 @@ Welcome to my GitHub profile! I'm a Software Engineer focused on Frontend develo
 &nbsp;
 
 [<img src="https://api.daily.dev/devcards/v2/UipxFkc3aG0eds2PFvtEa.png?type=default&r=vhm" alt="Git logo" width="300px">](https://app.daily.dev/rbrari)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rbrari&label=Profile%20views&color=0e75b6&style=for-the-badge)  
